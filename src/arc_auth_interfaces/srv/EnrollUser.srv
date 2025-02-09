@@ -1,0 +1,7 @@
+# Request
+string user_id
+AuthenticationFactor[] enrollment_data
+---
+# Response
+bool success
+string message 
